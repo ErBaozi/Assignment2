@@ -10,6 +10,7 @@ import static org.junit.Assert.assertEquals;
 
 public class JUnitTestFinder {
     //Test for the function findMax() with numbers in the array.
+
     @Test
     public void test_findMax_withNums() {
         Finder operation = new Finder();
